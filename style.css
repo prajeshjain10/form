@@ -1,0 +1,85 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#checkbox{
+    border-radius: 30px;
+}
+
+body{
+    margin-left: 12px;
+    margin-bottom: 14px;
+    align-content: center;
+    background-color: #bfc7ee;
+    color: darkcyan;
+    font-size: 24px;
+}
+
+h3{
+    font: normal;
+    font-size: 2vw;
+    color: #4401fc;
+    margin: 20px;
+}
+
+.navbar{
+    border-radius: 30px;
+    padding: 2px;
+    margin: 2px;
+    background-color: #c6fbdb;
+}
+.navbar li{
+   
+    float: left;
+    list-style: none;
+    padding: 16px 22px;
+    margin: 4px 4px;
+}
+
+.navbar li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar li a:hover{
+    color: rgb(160, 104, 250);
+}
+
+.navbar ul{
+    height: 70px;
+    overflow: auto;
+}
+
+div{
+    font-size: 18px;
+}
+
+.button{
+border-radius: 30px;
+color:black;
+font-weight: bold;
+padding: 4px;
+background-color: rgb(228, 193, 252);
+}
+
+#Yourself{
+margin-bottom: 3px;
+}
+
+#search{
+    float: right;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 55px;
+    margin-right: 80px;
+    margin-top: 18px;
+    border-radius: 30px;
+}
+#sechbtn{
+    padding: 6px;
+    float: right;
+    margin-right: -255px;
+    margin-top: 25px;
+}
